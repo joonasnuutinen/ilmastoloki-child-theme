@@ -58,7 +58,7 @@
 				printf(
 					/* translators: %s: Autua. */
 					esc_html__( 'Built by %s', 'twentytwentyonechild' ),
-					'<a href="' . esc_url( __( 'https://autua.fi', 'twentytwentyonechild' ) ) . '">Autua</a>'
+					'<a rel="noreferrer noopener" href="' . esc_url( __( 'https://autua.fi', 'twentytwentyonechild' ) ) . '" target="_blank">Autua</a>'
 				);
 				?>
 			</div><!-- .powered-by -->
