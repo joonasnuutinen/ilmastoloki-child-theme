@@ -8,3 +8,9 @@
 	License URI:  https://www.gnu.org/licenses/gpl-3.0.html
 	Text Domain:  twentytwentyonechild
 */
+
+/* Variables */
+:root {
+	/* Font Size */
+	--global--font-size-page-title: var(--global--font-size-xl);
+}
